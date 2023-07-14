@@ -14,7 +14,7 @@ The dataset used for this project is a collection of car data, they are stored i
 
 ![image](https://github.com/shaheeneqbal/Model-Selection-for-Predicting-Car-Prices/assets/67499556/87518c46-1fa0-4099-a232-171f38cfd907)
 
-### Getting Started
+### Model Selection
 
 ![image](https://github.com/shaheeneqbal/Model-Selection-for-Predicting-Car-Prices/assets/67499556/8f82794c-4452-4d4e-95ea-3327131999d3)
 
