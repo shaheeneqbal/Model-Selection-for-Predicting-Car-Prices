@@ -49,7 +49,11 @@ Once the model is trained and evaluated, it is ready to make predictions on new,
 ##### Step 12: Compare Algorithm
 Comparing and analyzing the results of 3 different algorithms to identify the best performing model.
 
+![image](https://github.com/shaheeneqbal/Model-Selection-for-Predicting-Car-Prices/assets/67499556/ca505bb1-6b83-46ef-aa98-53e6f9c699f4)
 
+![image](https://github.com/shaheeneqbal/Model-Selection-for-Predicting-Car-Prices/assets/67499556/a22a0337-a305-4b33-88a3-250d06da2713)
+
+From the above comparison and analysis, we can conclude that out of these 3 algorithms Gradient Boosting Regressor model gives best result as Training score is 99% and Testing score is 97%. It is neither overfitting nor underfitting.
 
 ### License
 This project is licensed under the MIT License. Feel free to modify and use it as per your requirements.
